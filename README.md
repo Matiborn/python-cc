@@ -2,6 +2,9 @@
 Python Crash course
 
 
+git add
+git commit -m ""
+git push
 
-This is my first Line.
+git pull
 
